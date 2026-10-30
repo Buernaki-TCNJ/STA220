@@ -144,7 +144,7 @@ ggplot(hamilton, aes(x = tax_year, y = avg_tax_bill)) +
   geom_point() +
   geom_line(data = benchmarks, aes(x = tax_year, y = mercer_county_avg), linetype = "dashed") +
   scale_x_continuous(breaks = 2016:2024) +
-  labs(x = "Tax year", y = "Average residential tax bill (dollars)")
+  labs(x = "Tax year", y = "Average residential tax bill (dollars)") #set of questions for 6 
 
 
 # A7. Two categories: stack, dodge, fill ----------------------------------------------------
