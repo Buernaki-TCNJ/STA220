@@ -105,7 +105,6 @@ summary(bike_crashes)
 #   Remember to change the title, the axis labels, and the caption to fit your figure and your argument.
 
 
-
 # Hints -------------------------------------------------------------------
 # Hints
 #   1. Check that you loaded the data by running the script above!
@@ -121,8 +120,6 @@ summary(bike_crashes)
 #                     cost_million (riders per $1 million, or crashes per $1 million)
 #        Example 13   the hardest one: count(town) works on bike_crashes too, and Cedar and Fir
 #                     (none of the four streets) come out grey
-#   7. Change the title so it states your argument, and change the subtitle and axis labels to
-#      match your figure.
 #   8. To show your figure to the class, click Zoom above the plot (or Export > Save as Image).
 
 
